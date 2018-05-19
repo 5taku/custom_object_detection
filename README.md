@@ -27,6 +27,8 @@ Pretrain 되어서 제공되는 Model들은 대부분 [coco dataset](http://coco
 해당 튜토리얼은 Custom Object Detection 을 위한 data의 수집, labeling, training등을  
 [tensorflow_object_detection_helper_tool](https://github.com/5taku/tensorflow_object_detection_helper_tool)을 활용하여 진행하는 방법에 대한 튜토리얼 입니다.  
 
+
+
 ## Tutorial  
 
 해당 튜토리얼은 google cloud comute engine 에서 테스트 되었으며 vm의 사양은 다음과 같습니다.
